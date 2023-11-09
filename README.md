@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babylard" alt="babylard" /></a> </p>
 
-- 🔭 I’m currently working on [NetScan 0.0.5](http://github.com/babylard/NetScan/)
+- 🔭 I’m currently working on [NetScan 0.0.6](http://github.com/babylard/NetScan/)
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 My Portfolio [https://babylard.github.io/](https://babylard.github.io/)
+- 👨‍💻 My [Portfolio](https://babylard.github.io/)
 
-- 📫 Contact me at **williamchiozza@protonmail.com**
+- 📫 Contact me at **williamchiozza@protonmail.com** or on [Discord](https://discordapp.com/users/1154190148876116029)
 
-- 📄 My resume [https://babylard.github.io/resume](https://babylard.github.io/resume)
+- 📄 My [Resume](https://babylard.github.io/resume)
 
 - ⚡ Fun fact **I love birds**
 
