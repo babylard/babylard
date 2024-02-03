@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babylard" alt="babylard" /></a> </p>
 
-- 🔭 I’m currently working on [NetScan 0.0.6](http://github.com/babylard/NetScan/)
+- 🔭 I’m currently working on [NetScan 0.9](http://github.com/babylard/NetScan/)
 
 - 🌱 I’m currently learning **C#**
 
