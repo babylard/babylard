@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm William.</h1>
-<h3 align="center">I'm an experienced Programmer and 3D Artist from Texas</h3>
+<h3 align="center">I'm a Programmer and 3D Artist from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babylard&label=Profile%20views&color=0e75b6&style=flat" alt="babylard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babylard" alt="babylard" /></a> </p>
 
-- 🔭 I’m currently working on [NetScan 0.9](http://github.com/babylard/NetScan/)
+- 🔭 I’m currently working on [NetScan 1.1](http://github.com/babylard/NetScan/)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 My [Portfolio](https://babylard.github.io/)
 
 - 📫 Contact me at **williamchiozza@protonmail.com** or on [Discord](https://discordapp.com/users/1154190148876116029)
-
-- 📄 My [Resume](https://babylard.github.io/resume)
 
 - ⚡ Fun fact **I love birds**
 
