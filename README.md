@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm William.</h1>
-<h3 align="center">I'm a Programmer and 3D Artist from Texas</h3>
+<h1 align="center">Hi 👋, I'm Lardsonian.</h1>
+<h3 align="center">I'm a Dev and 3D Artist from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babylard&label=Profile%20views&color=0e75b6&style=flat" alt="babylard" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 My [Portfolio](https://babylard.github.io/)
 
-- 📫 Contact me at **williamchiozza@protonmail.com** or on [Discord](https://discordapp.com/users/1154190148876116029)
+- 📫 Contact me on [Discord](https://discordapp.com/users/1154190148876116029)
 
 - ⚡ Fun fact **I love birds**
 
