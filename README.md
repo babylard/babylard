@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lardsonian.</h1>
-<h3 align="center">I'm a Dev and 3D Artist from Texas</h3>
+<h3 align="center">I write bad code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babylard&label=Profile%20views&color=0e75b6&style=flat" alt="babylard" /> </p>
 
-- 🔭 I’m currently working on [NetScan 1.1](http://github.com/babylard/NetScan/)
+- 🔭 I’m currently working on [IHM](http://github.com/babylard/IHM/)
 
 - 🌱 I’m currently learning **Rust**
 
