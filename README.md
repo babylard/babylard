@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Lardsonian.</h1>
-<h3 align="center">I write bad code.</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=babylard&layout=compact&theme=gruvbox&text_color=cdd6f4&hide_border=true&langs_count=4&bg_color=00000000"
+          alt="Most Used Languages"
+        />
+        <br />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=babylard&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true"
+          alt="Stats"
+        />
+      </td>
+      <td>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316ybo5nksks47xs5jkcxkvmeueu&redirect=true" target="_self" title="Open In Spotify">
+          <img
+            src="https://spotify-github-profile.kittinanx.com/api/view?uid=316ybo5nksks47xs5jkcxkvmeueu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"
+            style="height: 380px"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="left">
+          
+<!--START_SECTION:waka-->
+```c#
+void Me()
+{
+    string name         = "Lardsonian";
+    string website      = "https://babylard.github.io";
+    string organization = "https://thcotd.org";
+    string[] languages  =
+        {
+        "C#",
+        " Python",
+        "Rust (learning)"
+        };
+}
+```
+<!--END_SECTION:waka-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babylard&label=Profile%20views&color=0e75b6&style=flat" alt="babylard" /> </p>
+  </div></td></tr>
+  </table>
 
-- 🔭 I’m currently working on [IHM](http://github.com/babylard/IHM/)
+  <h1></h1>
 
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 My [Portfolio](https://babylard.github.io/)
-
-- 📫 Contact me on [Discord](https://discordapp.com/users/1154190148876116029)
-
-- ⚡ Fun fact **I love birds**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lardsonian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babylard1" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1154190148876116029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FXEUNhjv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babylard&show_icons=true&locale=en&layout=compact" alt="babylard" /></p>
+  <kbd
+    ><a href="https://open.spotify.com/user/316ybo5nksks47xs5jkcxkvmeueu">
+      <img
+        src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
+        alt="Spotify Profile"
+        height="30"
+      />
+  ></kbd>
+</div>
