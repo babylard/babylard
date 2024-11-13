@@ -54,5 +54,11 @@ void Me()
         alt="Spotify Profile"
         height="30"
       />
+      <a href="https://discord.com/users/1154190148876116029">
+      <img
+        src="https://img.shields.io/badge/Profile-1db954?logo=Discord&logoColor=white&color=7785cc&style=for-the-badge"
+        alt="Spotify Profile"
+        height="30"
+      />
   ></kbd>
 </div>
