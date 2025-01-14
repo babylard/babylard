@@ -36,7 +36,7 @@ void Me()
         {
         "C#",
         "Python",
-        "Rust (learning)"
+        "C++ (learning)"
         };
 }
 ```
