@@ -1,11 +1,3 @@
-<style>
-  kbd {
-  border-radius: 2px;
-  padding: 2px;
-  border: 1px solid black;
-}
-</style>
-
 <div align="center">
   <table>
     <tr>
