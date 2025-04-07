@@ -2,7 +2,7 @@
   kbd {
   border-radius: 2px;
   padding: 2px;
-  border: 1px coral;
+  border: 1px solid black;
 }
 </style>
 
