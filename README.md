@@ -60,5 +60,10 @@ void Me()
         alt="Spotify Profile"
         height="30"
       />
+      <a href="https://ko-fi.com/lardsonian">
+      <img
+      src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badge"
+      alt="KoFi"
+      height="30">
   ></kbd>
 </div>
