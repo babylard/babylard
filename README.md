@@ -35,8 +35,8 @@ void Me()
     string[] languages  =
         {
         "C#",
-        "Python",
-        "C++ (learning)"
+        "C++",
+        "Python"
         };
 }
 ```
